@@ -730,7 +730,7 @@ a#scrollUp:hover {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: #e8e8e8;
+  background-color: #c1dbae;
 }
 
 .bg-image--2 {
@@ -896,7 +896,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--25 {
-  background-image: url(images/bg/25.jpg);
+ background-color:#c1dbae ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -910,7 +910,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--27 {
-  background-color: #e8e8e8;
+  background-color: #c1dbae;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -946,7 +946,7 @@ a#scrollUp:hover {
 }
 
 .bg-pngimage--2 {
-  background-color: #e8e8e8;
+  background-color: #c1dbae;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
