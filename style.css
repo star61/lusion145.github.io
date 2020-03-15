@@ -734,7 +734,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--2 {
-  background-image: url("https://res.cloudinary.com/muneer/image/upload/v1584197439/test1.jpg");
+  background-image: url("https://res.cloudinary.com/muneer/image/upload/v1584282975/02MOSD3953_4_5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -2870,6 +2870,7 @@ Blocks Styles
   display: -ms-flexbox;
   display: flex;
   height: 100px;
+  
 }
 
 .mainmenu__wrapper .mainmenu__wrap .mainmenu__nav .mainmenu {
@@ -12595,7 +12596,7 @@ footer.footer--2 {
 .footer__contact__wrapper .single__footer__address .ft__contact__icon::before {
   background-image: url("images/shape/star/1.png");
   content: "";
-  height: 46px;
+  height: 35px;
   position: absolute;
   width: 46px;
   z-index: -1;
@@ -12908,4 +12909,20 @@ footer.footer--2 {
 
 #text-for-list2{
   text-align: left;
+}
+
+#address-email-spacing{
+  padding-bottom: 45px;
+}
+
+#address-phone-spacing{
+  padding-bottom: 45px;
+}
+
+.logo-style{
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  
+  font-weight: 700;
 }
