@@ -296,7 +296,7 @@ menu, ul {
 }
 
 nav ul, nav ol {
-  list-style: none;
+  list-style: circle;
   list-style-image: none;
 }
 
@@ -619,8 +619,10 @@ ul {
 }
 
 ul {
-  list-style: none;
+  list-style: circle;
   padding-left: 0;
+  font-size: 18px;
+  text-align: justify
 }
 
 a#scrollUp {
@@ -910,7 +912,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--27 {
-  background-color: #c1dbae;
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1745,6 +1747,7 @@ Elements Styles
   font-size: 18px;
   font-weight: 500;
   line-height: 30px;
+  text-align: justify;
   /*padding: 0 22%;*/
 }
 
@@ -4340,7 +4343,7 @@ Blocks Styles
 }
 
 .testimonial__container .testimonial .testimonial__inner .client__details p {
-  color: #ffffff;
+  color: black;
   font-family: Bubblegum Sans;
   font-size: 24px;
   line-height: 38px;
@@ -4353,7 +4356,7 @@ Blocks Styles
 }
 
 .testimonial__container .testimonial .testimonial__inner .client__details .client__info h6 {
-  color: #ffffff;
+  color: black;
   font-family: Open Sans;
   font-size: 16px;
   font-weight: 700;
@@ -4372,7 +4375,7 @@ Blocks Styles
 }
 
 .testimonial__bg::before {
-  background:#e8e8e8;
+  background:#c1dbae;
   content: "";
   height: 100%;
   left: 0;
@@ -12596,7 +12599,7 @@ footer.footer--2 {
 .footer__contact__wrapper .single__footer__address .ft__contact__icon::before {
   background-image: url("images/shape/star/1.png");
   content: "";
-  height: 35px;
+  height: 46px;
   position: absolute;
   width: 46px;
   z-index: -1;
@@ -12921,8 +12924,20 @@ footer.footer--2 {
 
 .logo-style{
   color: white;
-  font-size: 16px;
+  font-size: 20px;
   text-align: left;
   
   font-weight: 700;
+}
+#faq-align p{
+  text-align: center;
+}
+#class-area{
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: #c1dbae;
+}
+#title-spacing{
+  margin-bottom:50px;
 }
