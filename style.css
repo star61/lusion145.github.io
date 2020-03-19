@@ -732,7 +732,7 @@ a#scrollUp:hover {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: #c1dbae;
+  background-color: #b8caac;
 }
 
 .bg-image--2 {
@@ -948,7 +948,7 @@ a#scrollUp:hover {
 }
 
 .bg-pngimage--2 {
-  background-color: #c1dbae;
+  background-color: #b8caac;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -4960,6 +4960,7 @@ Blocks Styles
 .blog .blog__inner {
   background: #ffffff none repeat scroll 0 0;
   padding-top: 40px;
+  
 }
 
 .blog .blog__inner span {
@@ -12941,7 +12942,7 @@ footer.footer--2 {
   background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-color: #c1dbae;
+    background-color: #b8caac;
 }
 #title-spacing{
   margin-bottom:50px;
@@ -12958,9 +12959,25 @@ footer.footer--2 {
   margin-top:8px;
 }
 #enroll_link{
-  background-color:#c1dbae ;
+  background-color:#b8caac;
 }
 
 #home-banner-spacing{
   text-align: center;
+}
+
+
+#news-align-text p{
+  text-align: justify;
+}
+
+#no-style1 li{
+  text-decoration: none;
+}
+#news-area{
+  background-color: #b8caac;
+}
+
+#faq{
+  background-color: white;
 }
