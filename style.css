@@ -898,7 +898,7 @@ a#scrollUp:hover {
 }
 
 .bg-image--25 {
- background-color:#c1dbae ;
+ background-color:#ffffff ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -12904,10 +12904,15 @@ footer.footer--2 {
   font-family: "Open Sans", sans-serif;
   text-align: left;
 }
+#remove-lobster-styling2{
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
 #text-for-list{
   text-align: left;
   font-size: 18px;
   margin-bottom: 8px;
+  margin-left:20px;
 }
 
 #text-for-list2{
@@ -12915,11 +12920,11 @@ footer.footer--2 {
 }
 
 #address-email-spacing{
-  padding-bottom: 45px;
+  padding-bottom: 38px;
 }
 
 #address-phone-spacing{
-  padding-bottom: 45px;
+  padding-bottom: 11px;
 }
 
 .logo-style{
@@ -12940,4 +12945,22 @@ footer.footer--2 {
 }
 #title-spacing{
   margin-bottom:50px;
+}
+.ul-styling{
+  margin-left: 20px;
+  
+}
+
+.ul-styling a{
+  color: blue;
+}
+.footer-p-spacing{
+  margin-top:8px;
+}
+#enroll_link{
+  background-color:#c1dbae ;
+}
+
+#home-banner-spacing{
+  text-align: center;
 }
